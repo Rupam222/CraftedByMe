@@ -5,6 +5,15 @@
 }
 
 body {
+
+
+    background-image: url('"D:\MyPortfolio\images\background.jpg.jpg"');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
     font-family: 'Segoe UI', sans-serif;
     line-height: 1.6;
     background: #f0f2f5;
